@@ -1,0 +1,14 @@
+h3
+{
+    font-size: 18px;
+}
+
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 250px;
+    box-shadow: 5px 5px 5px grey;
+    margin-bottom: 100px;
+}
